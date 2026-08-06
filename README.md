@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KrishKhadse/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/KrishKhadse/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/KrishKhadse/LeetCode/tree/master/0509-fibonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KrishKhadse/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KrishKhadse/LeetCode/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KrishKhadse/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
