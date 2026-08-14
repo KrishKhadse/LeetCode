@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KrishKhadse/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KrishKhadse/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/KrishKhadse/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KrishKhadse/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/KrishKhadse/LeetCode/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KrishKhadse/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/KrishKhadse/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KrishKhadse/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KrishKhadse/LeetCode/tree/master/0027-remove-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KrishKhadse/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
