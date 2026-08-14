@@ -1,8 +1,6 @@
 class Solution {
     public int mySqrt(int n) {
         
-        if (n == 0 || n == 1)
-            return n;
         //First apply Binary search
 
 		int s = 0;
