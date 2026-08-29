@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KrishKhadse/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KrishKhadse/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishKhadse/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/KrishKhadse/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/KrishKhadse/LeetCode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KrishKhadse/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/KrishKhadse/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KrishKhadse/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KrishKhadse/LeetCode/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/KrishKhadse/LeetCode/tree/master/0796-rotate-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/KrishKhadse/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KrishKhadse/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/KrishKhadse/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
