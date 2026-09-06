@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/KrishKhadse/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishKhadse/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1207-unique-number-of-occurrences](https://github.com/KrishKhadse/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/KrishKhadse/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/KrishKhadse/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3903-smallest-stable-index-i](https://github.com/KrishKhadse/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KrishKhadse/LeetCode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishKhadse/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishKhadse/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/KrishKhadse/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/KrishKhadse/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
