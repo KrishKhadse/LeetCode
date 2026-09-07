@@ -12,7 +12,7 @@ class Solution {
     public ListNode removeElements(ListNode head, int val) 
     {
         if(head==null)
-            return head;
+            return null;
 
         ListNode dummy = new ListNode(0,head);  //constructor is defined in program
 
