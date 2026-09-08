@@ -2,7 +2,7 @@ class Solution {
     public boolean areOccurrencesEqual(String s) 
     {
         HashMap <Character,Integer> map = new HashMap<>();
-        HashSet <Integer> set = new HashSet<>();
+        
         for(char ch : s.toCharArray())
         {
             if(map.containsKey(ch))
@@ -11,13 +11,15 @@ class Solution {
                 map.put(ch,1);
         }
 
+        int frequency = -1;
+
         for(int freq : map.values())
         {
-            set.add(freq);
+            if(frequency == -1)
+                frequency = freq;
+            else if(freq != frequency)
+                return false;
         }
-
-        if(set.size()>1)
-            return false;
 
         return true;
         
