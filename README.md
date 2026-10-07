@@ -222,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KrishKhadse/LeetCode/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/KrishKhadse/LeetCode/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/KrishKhadse/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
