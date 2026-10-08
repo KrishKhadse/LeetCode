@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KrishKhadse/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/KrishKhadse/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishKhadse/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/KrishKhadse/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KrishKhadse/LeetCode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/KrishKhadse/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishKhadse/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KrishKhadse/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/KrishKhadse/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KrishKhadse/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KrishKhadse/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
