@@ -24,7 +24,7 @@ class Solution
 
     static char[] helper(char[] s , int left , int right)
     {
-        if(left > right)
+        if(left >= right)
             return s;
 
         char temp = s[left];
