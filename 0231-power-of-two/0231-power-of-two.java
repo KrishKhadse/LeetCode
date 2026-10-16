@@ -1,13 +1,10 @@
 class Solution {
     public boolean isPowerOfTwo(int n) 
     {
-        if(n == 1)
-            return true;
-            
-        if( n <= 0 || n % 2 != 0)   //If n is power of 2 then it will also get divided by two
+        if(n <= 0) 
             return false;
-
-        return isPowerOfTwo(n/2);   
+        return (n & (n-1)) == 0;    //The number that is power of has has only one bit as 1 other are 0
+        //AND the number with its previous number and if 0 then it is power of 2
         
     }
 }
