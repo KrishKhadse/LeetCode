@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KrishKhadse/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/KrishKhadse/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/KrishKhadse/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KrishKhadse/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KrishKhadse/LeetCode/tree/master/0053-maximum-subarray) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrishKhadse/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishKhadse/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/KrishKhadse/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/KrishKhadse/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KrishKhadse/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/KrishKhadse/LeetCode/tree/master/0217-contains-duplicate) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KrishKhadse/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/KrishKhadse/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/KrishKhadse/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/KrishKhadse/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -235,9 +238,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KrishKhadse/LeetCode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/KrishKhadse/LeetCode/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KrishKhadse/LeetCode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/KrishKhadse/LeetCode/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/KrishKhadse/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
