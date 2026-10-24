@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KrishKhadse/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KrishKhadse/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/KrishKhadse/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KrishKhadse/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishKhadse/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KrishKhadse/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrishKhadse/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/KrishKhadse/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KrishKhadse/LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/KrishKhadse/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/KrishKhadse/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KrishKhadse/LeetCode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishKhadse/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/KrishKhadse/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/KrishKhadse/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/KrishKhadse/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KrishKhadse/LeetCode/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/KrishKhadse/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/KrishKhadse/LeetCode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/KrishKhadse/LeetCode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/KrishKhadse/LeetCode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KrishKhadse/LeetCode/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KrishKhadse/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
