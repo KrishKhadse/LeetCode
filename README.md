@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KrishKhadse/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/KrishKhadse/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/KrishKhadse/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/KrishKhadse/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KrishKhadse/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/KrishKhadse/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KrishKhadse/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/KrishKhadse/LeetCode/tree/master/0148-sort-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KrishKhadse/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KrishKhadse/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishKhadse/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/KrishKhadse/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/KrishKhadse/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KrishKhadse/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KrishKhadse/LeetCode/tree/master/0283-move-zeroes) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KrishKhadse/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/KrishKhadse/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishKhadse/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/KrishKhadse/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/KrishKhadse/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KrishKhadse/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KrishKhadse/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KrishKhadse/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishKhadse/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KrishKhadse/LeetCode/tree/master/0202-happy-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/KrishKhadse/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
